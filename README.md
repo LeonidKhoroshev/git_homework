@@ -18,4 +18,8 @@ no changes added to commit (use "git add" and/or "git commit -a")
 commit b771209cfcaf88cb9285b86352614d4a1687d81d
 Author: Leonid Khoroshev <khoroshevlv@gmail.com>
 Date:   Sun Apr 23 22:02:41 2023 +0300
+![alt text](https://github.com/username/LeonidKhoroshev/netology_homeworks/screen1.png)
  
+**Задание 2.**
+![alt text](https://github.com/username/LeonidKhoroshev/netology_homeworks/screenshot2.png)
+![alt text](https://github.com/username/LeonidKhoroshev/netology_homeworks/screenshot3.png)
