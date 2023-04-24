@@ -26,4 +26,9 @@ Date:   Sun Apr 23 22:02:41 2023 +0300
 ![alt text](https://github.com/LeonidKhoroshev/netology_homeworks/blob/main/screenshot3.png)
 
  **Задание 3.**
- 
+Создание ветки dev, файла test.sh и "иммитация бурной деятельности"
+![alt text](https://github.com/LeonidKhoroshev/netology_homeworks/blob/main/screenshot4.png)
+Сам файл test.sh
+![alt text](https://github.com/LeonidKhoroshev/netology_homeworks/blob/main/screenshot5.png)
+Слияние веток main и dev
+![alt text](https://github.com/LeonidKhoroshev/netology_homeworks/blob/main/screenshot6.png)
